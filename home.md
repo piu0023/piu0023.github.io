@@ -5,5 +5,5 @@ layout: page
 ---
 
 # About Me
-## Name: Sandip Das
+## Name: Indrakshi Dey
 ![](MyPhoto.jpg)
