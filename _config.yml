@@ -1,6 +1,6 @@
-title: "Sandip Das"
-author: "Blog Author"
-description: "Trinity College Dublin" #"Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Indrakshi Dey"
+author: ""
+description: "Maynooth University" #"Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
+  - {file: "Home.md", title: "Home"}
   - {file: "README.md", title: "My Research"}
   - {file: "Blog.html", title: "Blogs"}
   - {file: "MyLife.md", title: "Other"}
